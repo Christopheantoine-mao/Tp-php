@@ -1,0 +1,256 @@
+{
+  "rss": {
+    "script": "",
+    "channel": {
+      "title": "International : Toute l’actualité sur Le Monde.fr.",
+      "description": "International - Découvrez gratuitement tous les articles, les vidéos et les infographies de la rubrique International sur Le Monde.fr.",
+      "copyright": "Le Monde - L’utilisation des flux RSS du Monde.fr est réservée à un usage strictement personnel, non professionnel et non collectif. Toute autre exploitation doit faire l’objet d’une autorisation et donner lieu au versement d’une rémunération. Contact : syndication@lemonde.fr",
+      "link": [
+        "https://www.lemonde.fr/international/rss_full.xml",
+        ""
+      ],
+      "pubDate": "Tue, 30 Apr 2024 08:29:26 +0000",
+      "language": "fr",
+      "item": [
+        {
+          "title": " En Iran, la police des mœurs revient en force ",
+          "pubDate": "Tue, 30 Apr 2024 10:00:07 +0200",
+          "description": " Les autorités ont lancé une nouvelle opération baptisée « Plan de la lumière » contre les femmes qui refusent de se voiler, une liberté arrachée après la mort en garde à vue, en septembre 2022, de Mahsa Amini. ",
+          "guid": "https://www.lemonde.fr/international/article/2024/04/30/en-iran-la-police-des-m-urs-revient-en-force_6230744_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2024/04/30/en-iran-la-police-des-m-urs-revient-en-force_6230744_3210.html",
+          "content": {
+            "description": "Arrestation d’une jeune fille par la police des mœurs à Téhéran, le 17 avril 2024",
+            "credit": "VAHIDONLINE/TELEGRAM"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " Migrants africains à Mayotte : l’Etat face à la pression des collectifs de citoyens ",
+          "pubDate": "Tue, 30 Apr 2024 09:20:23 +0200",
+          "description": " Le maire de Mamoudzou a pris un arrêté d’interdiction d’occupation de la voie publique. Des abris et les bureaux d’une association d’entraide ont été vandalisés. ",
+          "guid": "https://www.lemonde.fr/afrique/article/2024/04/30/migrants-africains-a-mayotte-l-etat-face-a-la-pression-des-collectifs-de-citoyens_6230738_3212.html",
+          "link": "https://www.lemonde.fr/afrique/article/2024/04/30/migrants-africains-a-mayotte-l-etat-face-a-la-pression-des-collectifs-de-citoyens_6230738_3212.html",
+          "content": {
+            "description": "A Mamoudzou, dans le quartier du stade de Cavani, des réfugiés roulent nattes et matelas afin de ne pas gêner le passage sur les trottoirs, le 20 avril 2024 à Mayotte.",
+            "credit": "MAIWENN LE GOFF"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " Au Royaume-Uni, le bastion conservateur menacé des Midlands de l’Ouest ",
+          "pubDate": "Tue, 30 Apr 2024 08:58:59 +0200",
+          "description": " Des élections locales, les dernières avant les élections générales, auront lieu jeudi. Une défaite du maire sortant de la région de Birmingham et de Coventry risque de remobiliser les critiques contre Rishi Sunak chez les tories. ",
+          "guid": "https://www.lemonde.fr/international/article/2024/04/30/au-royaume-uni-le-bastion-conservateur-menace-des-midlands-de-l-ouest_6230732_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2024/04/30/au-royaume-uni-le-bastion-conservateur-menace-des-midlands-de-l-ouest_6230732_3210.html",
+          "content": {
+            "description": "Andy Street, le maire tory des West Midlands (au centre), à Birmingham, le 15 avril 2024.",
+            "credit": "Carl Recine / REUTERS"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " L’Europe en fait-elle assez pour le climat ? ",
+          "pubDate": "Tue, 30 Apr 2024 07:30:03 +0200",
+          "description": " L’Union européenne porte une politique climatique ambitieuse mais reste une des plus grosses émettrices mondiales, rappelle la chercheuse Camille Defard dans le podcast « Chaleur humaine » ",
+          "guid": "https://www.lemonde.fr/podcasts/article/2024/04/30/l-europe-en-fait-elle-assez-pour-le-climat_6230723_5463015.html",
+          "link": "https://www.lemonde.fr/podcasts/article/2024/04/30/l-europe-en-fait-elle-assez-pour-le-climat_6230723_5463015.html",
+          "content": {
+            "description": "Camille Defard, cheffe du centre énergie de l’Institut Jacques-Delors, invitée de la saison 5 de « Chaleur humaine »."
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " En direct, guerre en Ukraine : une attaque de missiles russes sur Odessa fait au moins cinq morts et plusieurs blessés ",
+          "pubDate": "Tue, 30 Apr 2024 06:00:37 +0200",
+          "description": " Dans la grande ville portuaire du sud-ouest du pays, la frappe a endommagé des bâtiments d’habitation et d’autres infrastructures civiles, selon le gouverneur local. ",
+          "guid": "https://www.lemonde.fr/international/live/2024/04/30/en-direct-guerre-en-ukraine-une-attaque-de-missile-russe-sur-odessa-fait-au-moins-quatre-morts-et-plusieurs-blesses_6230339_3210.html",
+          "link": "https://www.lemonde.fr/international/live/2024/04/30/en-direct-guerre-en-ukraine-une-attaque-de-missile-russe-sur-odessa-fait-au-moins-quatre-morts-et-plusieurs-blesses_6230339_3210.html",
+          "content": {
+            "description": "Le gouverneur de l’oblast d’Odessa, Oleh Kiper (à droite), regarde une partie d’un missile russe abattu par les forces de défense aérienne ukrainiennes, à Odessa, le 29 avril 2024.",
+            "credit": "ADMINISTRATION RÉGIONALE MILITAIRE D’ODESSA / REUTERS"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " Elections européennes : « Jordan Bardella est devenu le roi de l’esquive » ",
+          "pubDate": "Tue, 30 Apr 2024 06:00:04 +0200",
+          "description": " Au regard du poids politique auquel prétend le Rassemblement national, les dérobades de sa tête de liste sur son projet européen sonnent comme un aveu de faiblesse, analyse dans sa chronique Françoise Fressoz, éditorialiste au « Monde ». ",
+          "guid": "https://www.lemonde.fr/idees/article/2024/04/30/elections-europeennes-2024-jordan-bardella-est-devenu-le-roi-de-l-esquive_6230717_3232.html",
+          "link": "https://www.lemonde.fr/idees/article/2024/04/30/elections-europeennes-2024-jordan-bardella-est-devenu-le-roi-de-l-esquive_6230717_3232.html",
+          "content": {
+            "description": "Lors d’un déplacement de Jordan Bardella, à Cambrai (Nord), le 6 avril 2024."
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " Occupation de Sciences Po Paris par des étudiants propalestiniens : la direction défend la « voie étroite » du « compromis » ",
+          "pubDate": "Tue, 30 Apr 2024 05:07:44 +0200",
+          "description": " Dans un entretien au « Monde », l’administrateur provisoire de l’Institut d’études politiques, Jean Bassères, met en avant les négociations qui lui ont permis de lever le blocage de l’établissement et répond aux critiques du gouvernement. ",
+          "guid": "https://www.lemonde.fr/societe/article/2024/04/30/occupation-de-sciences-po-paris-par-des-etudiants-propalestiniens-la-direction-defend-la-voie-etroite-du-compromis_6230678_3224.html",
+          "link": "https://www.lemonde.fr/societe/article/2024/04/30/occupation-de-sciences-po-paris-par-des-etudiants-propalestiniens-la-direction-defend-la-voie-etroite-du-compromis_6230678_3224.html",
+          "content": {
+            "description": "Jean Bassères, administrateur provisoire de la FNSP et de l’IEP de Paris, dans son bureau, à Paris, le 29 avril 2024.",
+            "credit": "JULIEN MUGUET POUR « LE MONDE »"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " En Europe, le désarroi des territoires délaissés ",
+          "pubDate": "Tue, 30 Apr 2024 04:45:11 +0200",
+          "description": " « Les défis économiques d’une Europe fragilisée » (2/5). Si les économies des pays membres ont en moyenne convergé ces dernières années, les inégalités entre les régions peinent à se résorber. Certaines d’entre elles sombrent dans un marasme alimentant le vote de mécontentement. ",
+          "guid": "https://www.lemonde.fr/economie/article/2024/04/30/en-europe-le-desarroi-des-territoires-delaisses_6230675_3234.html",
+          "link": "https://www.lemonde.fr/economie/article/2024/04/30/en-europe-le-desarroi-des-territoires-delaisses_6230675_3234.html",
+          "content": {
+            "description": "Angelos Vavlekis, un ingénieur civil qui a lancé un projet agricole près de Katapola (Grèce), sur l’île d’Amorgos, se promène dans les terres qu’il cultive, le 4 avril 2024.",
+            "credit": "LOULOU D'AKI POUR « LE MONDE »"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " Attaque de l’Iran contre Israël : « La République islamique affirme sa volonté d’être reconnue comme un acteur régional puissant » ",
+          "pubDate": "Tue, 30 Apr 2024 04:00:04 +0200",
+          "description": " L’attaque de drones et de missiles lancée le 13 avril sur Israël par les gardiens de la révolution est une tentative de retrouver une forme de légitimité politique dans et hors les frontières du pays en faisant de la défense du territoire national leur priorité, analyse le géographe Bernard Hourcade dans une tribune au « Monde ». ",
+          "guid": "https://www.lemonde.fr/idees/article/2024/04/30/attaque-de-l-iran-contre-israel-la-republique-islamique-affirme-sa-volonte-d-etre-reconnue-comme-un-acteur-regional-puissant_6230673_3232.html",
+          "link": "https://www.lemonde.fr/idees/article/2024/04/30/attaque-de-l-iran-contre-israel-la-republique-islamique-affirme-sa-volonte-d-etre-reconnue-comme-un-acteur-regional-puissant_6230673_3232.html",
+          "content": {
+            "description": "Un hélicoptère militaire israélien évacue les restes d’un missile balistique iranien retrouvé près de la ville d’Arad, dans le désert, après l’attaque des 13 et 14 avril 2024. En Israël, le 26 avril 2024.",
+            "credit": "Amir Cohen / REUTERS"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " Mike Tyson, légende de la boxe, va disputer un combat professionnel à 58 ans ",
+          "pubDate": "Tue, 30 Apr 2024 03:13:23 +0200",
+          "description": " L’ancien champion du monde des poids lourds doit affronter, le 20 juillet à Dallas, le youtubeur Jake Paul, âgé de 27 ans. ",
+          "guid": "https://www.lemonde.fr/sport/article/2024/04/30/boxe-a-58-ans-mike-tyson-va-disputer-un-combat-professionnel_6230672_3242.html",
+          "link": "https://www.lemonde.fr/sport/article/2024/04/30/boxe-a-58-ans-mike-tyson-va-disputer-un-combat-professionnel_6230672_3242.html",
+          "content": {
+            "description": "Mike Tyson, le 27 février 2023, à Riyad.",
+            "credit": "AHMED YOSRI / REUTERS"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " Le douloureux réveil de la Suède face à la corruption ",
+          "pubDate": "Tue, 30 Apr 2024 03:00:05 +0200",
+          "description": " Des petits arrangements entre amis aux divers pots-de-vin et détournements de fonds à grande échelle : les Suédois, qui ont longtemps voulu croire que leur pays était un modèle de probité, découvrent l’ampleur d’un phénomène qu’ils avaient sous-estimé. ",
+          "guid": "https://www.lemonde.fr/international/article/2024/04/30/le-douloureux-reveil-de-la-suede-face-a-la-corruption_6230671_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2024/04/30/le-douloureux-reveil-de-la-suede-face-a-la-corruption_6230671_3210.html",
+          "content": {
+            "description": "L’ancienne dirigeante du Parti conservateur suédois, Anna Kinberg Batra, au centre de l’image, à Stockholm, le 27 décembre 2014.",
+            "credit": "Henrik Montgomery / AP"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " L’étau se resserre autour des exilés ukrainiens en âge de combattre ",
+          "pubDate": "Mon, 29 Apr 2024 19:29:43 +0200",
+          "description": " Kiev a ordonné de suspendre temporairement toutes les activités consulaires concernant les hommes de 18 à 60 ans. A Berlin, Paris ou Varsovie, l’inquiétude le dispute à la colère. ",
+          "guid": "https://www.lemonde.fr/international/article/2024/04/29/l-etau-se-resserre-autour-des-exiles-ukrainiens-en-age-de-combattre_6230650_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2024/04/29/l-etau-se-resserre-autour-des-exiles-ukrainiens-en-age-de-combattre_6230650_3210.html",
+          "content": {
+            "description": "Une employée du service des passeports se dispute avec des personnes rassemblées devant le consulat d’Ukraine à Varsovie, le 24 avril 2024.",
+            "credit": "SERGEI GAPON / AFP"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " Manifestations propalestiniennes à Sciences Po Paris : Valérie Pécresse annonce la suspension du financement de la région Ile-de-France ",
+          "pubDate": "Mon, 29 Apr 2024 18:58:07 +0200",
+          "description": " Après le blocage et l’occupation partielle de l’établissement parisien vendredi, la présidente de la région Ile-de-France a appelé à « un sursaut d’autorité » lundi, accusant « une minorité de radicalisés » de vouloir « dicter leur loi à l’ensemble de la communauté éducative ». ",
+          "guid": "https://www.lemonde.fr/societe/article/2024/04/29/manifestations-propalestiniennes-a-sciences-po-paris-la-region-ile-de-france-suspend-ses-financements-a-l-etablissement_6230645_3224.html",
+          "link": "https://www.lemonde.fr/societe/article/2024/04/29/manifestations-propalestiniennes-a-sciences-po-paris-la-region-ile-de-france-suspend-ses-financements-a-l-etablissement_6230645_3224.html",
+          "content": {
+            "description": "La présidente de la région Ile-de-France, Valérie Pécresse, à Paris, le 24 avril 2024.",
+            "credit": "BERTRAND GUAY / AFP"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " Mobilisation étudiante propalestinienne : la Sorbonne évacuée, d’autres actions annoncées ",
+          "pubDate": "Mon, 29 Apr 2024 18:15:50 +0200",
+          "description": " Lundi, la police a évacué des dizaines d’étudiants installés dans des tentes déployées dans la cour de l’université parisienne. D’autres opérations se préparent ou sont en cours dans plusieurs établissements d’enseignement supérieur en France. ",
+          "guid": "https://www.lemonde.fr/societe/article/2024/04/29/mobilisation-etudiante-propalestinienne-la-sorbonne-evacuee-d-autres-actions-annoncees_6230639_3224.html",
+          "link": "https://www.lemonde.fr/societe/article/2024/04/29/mobilisation-etudiante-propalestinienne-la-sorbonne-evacuee-d-autres-actions-annoncees_6230639_3224.html",
+          "content": {
+            "description": "Des étudiants déploient un immense drapeau palestinien place de la Sorbonne, à Paris, le 29 avril 2024.",
+            "credit": "JULIEN MUGUET POUR « LE MONDE »"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " Guerre Israël-Hamas, jour 206 : négociations autour d’une proposition de trêve, qu’Antony Blinken qualifie d’« extraordinairement généreuse de la part d’Israël » ",
+          "pubDate": "Mon, 29 Apr 2024 18:00:03 +0200",
+          "description": " En parallèle de l’attente de la réponse du Hamas à la proposition de trêve, le chef de la diplomatie américaine, Antony Blinken, en visite à Riyad, a réaffirmé l’opposition des Etats-Unis à une opération terrestre d’Israël à Rafah. ",
+          "guid": "https://www.lemonde.fr/international/article/2024/04/29/guerre-israel-hamas-jour-206-antony-blinken-en-tournee-au-moyen-orient-negociations-d-une-treve-en-egypte_6230636_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2024/04/29/guerre-israel-hamas-jour-206-antony-blinken-en-tournee-au-moyen-orient-negociations-d-une-treve-en-egypte_6230636_3210.html",
+          "content": {
+            "description": "Le secrétaire d’Etat américain, Antony Blinken, participe à la réunion avec des représentants de l’Egypte, de la Jordanie, de l’Arabie saoudite, du Qatar, des Emirats arabes unis et de l’Autorité palestinienne, à Riyad, en Arabie saoudite, le 29 avril 2024.",
+            "credit": "Evelyn Hockstein / AP"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " Ecosse : la démission du premier ministre, Humza Yousaf, aggrave la crise au sein du parti indépendantiste SNP ",
+          "pubDate": "Mon, 29 Apr 2024 17:56:54 +0200",
+          "description": " En fonctions depuis à peine un an, le dirigeant écossais a lui-même provoqué sa chute en mettant fin unilatéralement, le 25 avril, à la coalition que formait son parti avec les Verts depuis 2021. ",
+          "guid": "https://www.lemonde.fr/international/article/2024/04/29/ecosse-le-premier-ministre-independantiste-humza-yousaf-demissionne_6230633_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2024/04/29/ecosse-le-premier-ministre-independantiste-humza-yousaf-demissionne_6230633_3210.html",
+          "content": {
+            "description": "Le premier ministre écossais, Humza Yousaf, et son épouse, Nadia El-Nakla, à leur départ de Bute House, à Edimbourg, après l’annonce de sa démission, le 29 avril 2024.",
+            "credit": "Andrew Milligan / AP"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " En Espagne, la manœuvre de Pedro Sanchez pour resserrer sa majorité ",
+          "pubDate": "Mon, 29 Apr 2024 17:45:59 +0200",
+          "description": " Le premier ministre espagnol avait menacé mercredi de démissionner. « J’ai décidé de continuer, avec plus de forces encore », a-t-il assuré, lundi. ",
+          "guid": "https://www.lemonde.fr/international/article/2024/04/29/en-espagne-la-man-uvre-de-pedro-sanchez-pour-resserrer-sa-majorite_6230630_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2024/04/29/en-espagne-la-man-uvre-de-pedro-sanchez-pour-resserrer-sa-majorite_6230630_3210.html",
+          "content": {
+            "description": "Le premier ministre espagnol, Pedro Sanchez, au palais de la Moncloa, à Madrid, le 29 avril 2024.",
+            "credit": "Borja Puig de la Bellacasa / via REUTERS"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " Retrait des troupes américaines du Niger : des décisions dans les prochaines semaines ",
+          "pubDate": "Mon, 29 Apr 2024 17:31:10 +0200",
+          "description": " La junte estime que les 1 000 soldats américains constituent désormais une présence « illégale » dans le pays. ",
+          "guid": "https://www.lemonde.fr/afrique/article/2024/04/29/retrait-des-troupes-americaines-du-niger-des-decisions-dans-les-prochaines-semaines_6230629_3212.html",
+          "link": "https://www.lemonde.fr/afrique/article/2024/04/29/retrait-des-troupes-americaines-du-niger-des-decisions-dans-les-prochaines-semaines_6230629_3212.html",
+          "content": {
+            "description": "Des manifestants demandent le départ de l’armée américaine du Niger, à Niamey, le 13 avril 2024.",
+            "credit": "AFP"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " La mort de l’écrivain et intellectuel indien Sudhir Kakar ",
+          "pubDate": "Mon, 29 Apr 2024 17:27:41 +0200",
+          "description": " Le psychanalyste et romancier, mort le 22 avril, s’est voué sa vie durant à l’analyse comparée des imaginaires indiens et occidentaux, en affirmant que « l’Inde est l’inconscient de l’Occident ». Et inversement. ",
+          "guid": "https://www.lemonde.fr/disparitions/article/2024/04/29/la-mort-de-l-ecrivain-et-intellectuel-indien-sudhir-kakar_6230628_3382.html",
+          "link": "https://www.lemonde.fr/disparitions/article/2024/04/29/la-mort-de-l-ecrivain-et-intellectuel-indien-sudhir-kakar_6230628_3382.html",
+          "content": {
+            "description": "Sudhir Kakar, à Barcelone (Espagne), le 27 janvier 2013.",
+            "credit": "Alberto Estevez / EFE/ via maxppp"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+          "title": " En Irak, la nouvelle loi anti-LGBTQ + « devrait être abrogée », estime l’ONU ",
+          "pubDate": "Mon, 29 Apr 2024 17:20:44 +0200",
+          "description": " La nouvelle loi adoptée samedi par le parlement criminalise notamment les relations homosexuelles, la promotion de l’homosexualité et les transitions de genre. ",
+          "guid": "https://www.lemonde.fr/international/article/2024/04/29/en-irak-la-nouvelle-loi-anti-lgbtq-devrait-etre-abrogee-estime-l-onu_6230627_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2024/04/29/en-irak-la-nouvelle-loi-anti-lgbtq-devrait-etre-abrogee-estime-l-onu_6230627_3210.html",
+          "content": {
+            "description": "Le siège de l’Organisation des Nations unies (ONU) à New York aux Etats-Unis, le 17 mars 2022.",
+            "credit": "DANIEL SLIM / AFP"
+          },
+          "enclosure": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+      ]
+    }
+  }
+}

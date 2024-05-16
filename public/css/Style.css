@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    display: flex;
+    flex-direction: column; /* Change flex-direction to column */
+    align-items: center; /* Center align items vertically */
+}
+
+/* Style de base pour la barre de navigation épurée */
+nav {
+    background-color: #f8f9fa; /* Couleur de fond claire pour la navbar */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Ajout d'une ombre douce */
+    padding: 10px 0; /* Ajout de padding pour donner de la hauteur */
+    font-family: 'Arial', sans-serif;
+    width: 100%;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex; /* Utilisation de flex au lieu de inline-block */
+    justify-content: center; /* Centrer les éléments horizontalement */
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    display: inline-block;
+    color: #333;
+    padding: 10px 15px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+/* Changement de couleur lors du survol */
+nav ul li a:hover {
+    color: #0056b3;
+}
+
+/* Style pour les écrans mobiles */
+@media (max-width: 600px) {
+    nav ul {
+        flex-direction: column; /* Les liens s'empilent verticalement */
+    }
+
+    nav ul li {
+        width: 100%; /* Les liens prennent toute la largeur */
+    }
+
+    nav ul li a {
+        width: 100%;
+        padding: 10px 0;
+    }
+}
+
+form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0 0 10px #ccc;
+    width: 300px;
+    margin-top: 20px; /* Espacement entre nav et form */
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="date"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #004494;
+}
+
+label {
+    font-weight: bold;
+}
+
+/* Responsive design pour les petits écrans */
+@media (max-width: 600px) {
+    form {
+        width: 100%;
+    }
+}
